@@ -1,0 +1,5 @@
+the-order-arguments-in-left-folds/gleam/*.beam
+the-order-arguments-in-left-folds/gleam/*.ez
+the-order-arguments-in-left-folds/gleam/build/
+the-order-arguments-in-left-folds/gleam/erl_crash.dump
+the-order-arguments-in-left-folds/javascript/node_modules/
