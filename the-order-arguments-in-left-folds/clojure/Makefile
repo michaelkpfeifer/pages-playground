@@ -1,0 +1,2 @@
+all:
+	./reduce.clj

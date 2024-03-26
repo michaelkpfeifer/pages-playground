@@ -1,5 +1,4 @@
-(ns clojurex.core
-  (:gen-class))
+#!/usr/bin/env clojure
 
 (defn rev []
   (let [collection '(1 2 3 4 5)
@@ -11,5 +10,4 @@
      initial-accumulator
      collection)))
 
-(defn -main [& args]
-  (println (rev)))
+(println (rev))
