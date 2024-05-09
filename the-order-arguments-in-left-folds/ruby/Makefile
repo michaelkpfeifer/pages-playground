@@ -1,0 +1,2 @@
+all:
+	ruby ./inject.rb
