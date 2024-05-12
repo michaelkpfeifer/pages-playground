@@ -15,6 +15,6 @@ defmodule Reduce do
   end
 
   def run do
-    IO.inspect(rev())
+    IO.inspect(rev()) # prints [5, 4, 3, 2, 1]
   end
 end
