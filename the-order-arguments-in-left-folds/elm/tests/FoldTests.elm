@@ -1,12 +1,12 @@
-module FoldTests exposing (reverseList)
+module FoldTests exposing (revTest)
 
 import Expect
 import Fold
 import Test
 
 
-reverseList : Test.Test
-reverseList =
+revTest : Test.Test
+revTest =
     Test.test
         "reverses the given list"
         (\_ ->
